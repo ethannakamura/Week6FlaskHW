@@ -1,7 +1,8 @@
-<h1> this is a flask setup example for the Foxes-78 cohort!>/h1>
-<p> I like flask. </p>
-- created a virtual environment
-- installed the flask package and the python-dotenv package
-- set up our config file using the .env file to hid our config variables
-- set up our init file to create our central flask app object
-- created a route
+<h1> This is my first creation of a Flask app>/h1>
+<p>I learned to:</p>
+<ul>
+<li>created a virtual environment</li>
+<li>installed the flask package and the python-dotenv package</li>
+<li>set up our config file using the .env file to hid our config variables</li>
+<li>set up our init file to create our central flask app object</li>
+<li>created a route</li>
