@@ -1,8 +1,8 @@
 <h1> This is my first creation of a Flask app</h1>
-<p>I learned to:</p>
+<p>I learned how to:</p>
 <ul>
-<li>created a virtual environment</li>
-<li>installed the flask package and the python-dotenv package</li>
-<li>set up our config file using the .env file to hid our config variables</li>
-<li>set up our init file to create our central flask app object</li>
-<li>created a route</li>
+<li>create a virtual environment</li>
+<li>install the flask and python-dotenv packages</li>
+<li>set up a config file using the .env file to hide our config variables</li>
+<li>set up an init file to create a central flask app object, and</li>
+<li>create a route</li>
