@@ -1,4 +1,4 @@
-<h1> This is my first creation of a Flask app>/h1>
+<h1> This is my first creation of a Flask app</h1>
 <p>I learned to:</p>
 <ul>
 <li>created a virtual environment</li>
